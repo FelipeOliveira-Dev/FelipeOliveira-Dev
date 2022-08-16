@@ -1,4 +1,4 @@
-## Oii, eu sou o Natam Leao - estudante de CC e apaixonado por ML/DL
+## Olá, sou Felipe Oliveira. Estudante de Ciência da Computação.
 <div align="center">
   <a href="https://github.com/FelipeOliveira-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeOliveira-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
