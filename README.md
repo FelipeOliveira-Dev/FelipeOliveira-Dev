@@ -1,8 +1,8 @@
 ## Oii, eu sou o Natam Leao - estudante de CC e apaixonado por ML/DL
 <div align="center">
-  <a href="https://github.com/natamleao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/FelipeOliveira-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeOliveira-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOliveira-Dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Natam-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
@@ -15,8 +15,6 @@
   ##
  
 <div>  
-  <a href = "mailto:ferreira.natamleao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natam-leao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href = "mailto:felipe.santiago@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/natamleao/natamleao/blob/output/github-contribution-grid-snake.svg) 
 </div>
