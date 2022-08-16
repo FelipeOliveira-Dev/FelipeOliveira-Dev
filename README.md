@@ -10,7 +10,7 @@
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   
-  <a><img align="right" alt="Natam-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f3032d0eb66338f9237fe7c6fc4a4177.gif" alt="https://picasion.com/">
+  <!--<a><img align="right" alt="Natam-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f3032d0eb66338f9237fe7c6fc4a4177.gif" alt="https://picasion.com/">-->
 </div>
   
   ##
