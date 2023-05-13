@@ -1,4 +1,4 @@
-## Olá, me chamo Felipe Oliveira, sou Desenvolvedor WEB FullStack
+## Olá, me chamo Felipe Oliveira, sou Desenvolvedor WEB Full Stack
 <div align="center">
 	<a href="https://github.com/FelipeOliveira-Dev"></a>
   	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeOliveira-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
